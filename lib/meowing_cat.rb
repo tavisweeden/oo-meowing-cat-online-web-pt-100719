@@ -3,3 +3,4 @@ class Cat
   
 end
 
+def meow
